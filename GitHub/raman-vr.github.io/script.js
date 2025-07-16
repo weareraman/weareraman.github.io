@@ -62,21 +62,11 @@ document.addEventListener('DOMContentLoaded', function() {
     // Navbar background change on scroll
     function updateNavbarBackground() {
         const navbar = document.querySelector('.navbar');
-        const isDarkTheme = document.body.classList.contains('dark-theme');
-        
         if (window.scrollY > 50) {
-            if (isDarkTheme) {
-                navbar.style.backgroundColor = 'rgba(15, 23, 42, 0.98)';
-            } else {
-                navbar.style.backgroundColor = 'rgba(255, 255, 255, 0.98)';
-            }
+            navbar.style.backgroundColor = 'rgba(255, 255, 255, 0.98)';
             navbar.style.boxShadow = '0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)';
         } else {
-            if (isDarkTheme) {
-                navbar.style.backgroundColor = 'rgba(15, 23, 42, 0.95)';
-            } else {
-                navbar.style.backgroundColor = 'rgba(255, 255, 255, 0.95)';
-            }
+            navbar.style.backgroundColor = 'rgba(255, 255, 255, 0.95)';
             navbar.style.boxShadow = 'none';
         }
     }
@@ -184,9 +174,6 @@ document.addEventListener('DOMContentLoaded', function() {
                     this.style.transform = '';
                 }, 300);
             }
-            
-            // Update navbar background immediately
-            updateNavbarBackground();
         });
         
         // Check for saved theme preference or default to light mode
@@ -211,16 +198,11 @@ document.addEventListener('DOMContentLoaded', function() {
                     themeToggle.querySelector('i').className = 'fas fa-moon';
                     themeToggle.setAttribute('title', 'Switch to dark theme');
                 }
-                // Update navbar background when system theme changes
-                updateNavbarBackground();
             }
         });
         
         document.body.appendChild(themeToggle);
         console.log('Theme toggle button appended to body');
-        
-        // Update navbar background with initial theme
-        setTimeout(() => updateNavbarBackground(), 0);
     }
     
     // Initialize theme toggle
