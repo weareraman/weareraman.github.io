@@ -1182,6 +1182,19 @@ a:hover {
     border-top-color: var(--border-color);
 }
 
+.dark-theme .footer {
+    background-color: #000000;
+    color: var(--bg-white);
+}
+
+.dark-theme .footer-links a {
+    color: var(--text-muted);
+}
+
+.dark-theme .footer-links a:hover {
+    color: var(--bg-white);
+}
+
 /* Smooth theme transition */
 * {
     transition: background-color var(--transition-normal), 
