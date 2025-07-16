@@ -62,12 +62,24 @@ document.addEventListener('DOMContentLoaded', function() {
     // Navbar background change on scroll
     function updateNavbarBackground() {
         const navbar = document.querySelector('.navbar');
+        const isDarkTheme = document.body.classList.contains('dark-theme');
+        
         if (window.scrollY > 50) {
-            navbar.style.backgroundColor = 'rgba(255, 255, 255, 0.98)';
-            navbar.style.boxShadow = '0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)';
+            if (isDarkTheme) {
+                navbar.style.backgroundColor = 'rgba(15, 23, 42, 0.98)';
+                navbar.style.boxShadow = '0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -1px rgba(0, 0, 0, 0.2)';
+            } else {
+                navbar.style.backgroundColor = 'rgba(255, 255, 255, 0.98)';
+                navbar.style.boxShadow = '0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)';
+            }
         } else {
-            navbar.style.backgroundColor = 'rgba(255, 255, 255, 0.95)';
-            navbar.style.boxShadow = 'none';
+            if (isDarkTheme) {
+                navbar.style.backgroundColor = 'rgba(15, 23, 42, 0.95)';
+                navbar.style.boxShadow = 'none';
+            } else {
+                navbar.style.backgroundColor = 'rgba(255, 255, 255, 0.95)';
+                navbar.style.boxShadow = 'none';
+            }
         }
     }
     
@@ -174,6 +186,9 @@ document.addEventListener('DOMContentLoaded', function() {
                     this.style.transform = '';
                 }, 300);
             }
+            
+            // Update navbar background after theme change
+            updateNavbarBackground();
         });
         
         // Check for saved theme preference or default to light mode
@@ -185,6 +200,11 @@ document.addEventListener('DOMContentLoaded', function() {
             themeToggle.querySelector('i').className = 'fas fa-sun';
             themeToggle.setAttribute('title', 'Switch to light theme');
         }
+        
+        // Update navbar background after initial theme is set
+        setTimeout(() => {
+            updateNavbarBackground();
+        }, 100);
         
         // Listen for system theme changes
         window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
@@ -198,6 +218,8 @@ document.addEventListener('DOMContentLoaded', function() {
                     themeToggle.querySelector('i').className = 'fas fa-moon';
                     themeToggle.setAttribute('title', 'Switch to dark theme');
                 }
+                // Update navbar background after system theme change
+                updateNavbarBackground();
             }
         });
         
