@@ -1,0 +1,505 @@
+RESUME PDF PLACEHOLDER
+
+To complete your professional portfolio website, please:
+
+1. Create or update your professional resume as a PDF file
+2. Name the file exactly "resume.pdf" 
+3. Place it in the same directory as your index.html file
+
+The website is designed to automatically display your resume in the Resume section.
+
+If you don't have a PDF resume yet, you can:
+- Use Microsoft Word, Google Docs, or similar software to create one
+- Export/Save as PDF format
+- Ensure the file is named "resume.pdf" (all lowercase)
+
+The website includes a PDF viewer that will display your resume inline, 
+and visitors can also download it directly.
+
+For the best experience:
+- Keep your resume to 1-2 pages
+- Use a professional format
+- Ensure text is readable when displayed in the web viewer
+- Test the PDF displays correctly in different browsers
+
+Your resume will be accessible at: [your-website-url]/resume.pdfI am a seasoned social development and public policy expert with vision and commitment for an equitable and inclusive
+society. I have multi-sectoral, multi-domain expertise and over thirty years of nationwide experience across India, and
+globally. Uniquely I have worked across government and non-government bodies, research, academia as well as people’s
+movements. My social sector involvement and contributions include co-founding of several important organisations
+including some of the noted state-civil society partnerships and spearheading some of the renowned large-scale programs
+and campaigns. I have led policy, research, financing and advocacy initiatives, right from grassroots to national and
+international levels. I also have senior level involvement with some of the flagship development missions of India, namely,
+Swachh Bharat Mission for total sanitation; Jal Jeevan Mission for universal provision of piped water supply; National Health
+Mission (both rural/urban) to improve health, health systems and policy; Poshan Abhiyan on Nutrition and National Literacy
+Mission on mass education.
+Throughout my work, I have prioritised strengthening of social, financial as well as governance accountability mechanisms,
+and community level institutions that foster such processes. My associations with the (a) initiatives to prepare Medium
+Term Expenditure Framework for Health Sector by the State Government of Chhattisgarh (b) Community based
+monitoring processes for health, nutrition, education, employment and food security in Chhattisgarh and Jharkhand states
+(c) public hearing on health care rights by National Human Rights Commission (d) capacity building of CBOs for localised
+WASH budget review and analysis in Bihar and Odisha (e) WASH as well as Health Accounts initiatives (f) Studies on
+Municipal WASH financing in India and South Asia (g) global Community of Practitioners on Accountability and Social
+Action in Health (COPASAH), and (h) Global Health Watch as part of the Peoples Health Movement - all exemplify
+these. Added to these, I have also been focussed on rights based inclusion of weaker and marginalised/excluded sections
+of society in various policies and programs across sectors. These include work for the rights of women, persons with
+disabilities, gender minorities, children, persons engaged in manual scavenging. Systems thinking and addressing
+complexities in systems and policies are also areas where I have some critical national as well as global engagements.
+Currently I work as the Executive Director of the Centre for Budget and Governance Accountability (CBGA), a renowned
+Indian think tank. I am also supporting part time the Sanitation Learning Hub, Institute of Development Studies,
+University of Sussex, as their India in-country focal person. Till end of May 2023, I was also working as the Senior Policy
+and Research Mentor for the Centre for Social and Environmental Innovation at Ashoka Trust for Research in Ecology
+and the Environment, for the REAL-Water Global consortia research on rural drinking water supply. I have previously
+worked with organisations such as WaterAid (Head of Policy), Public Health Foundation of India/ Indian Institute of
+Public Health (Principal Fellow) and State Health Resource Centre Chhattisgarh (Chief Coordinator and Director).
+I am associated with some of the well-known academic and training institutions as well, as invited expert faculty, which
+include the Indian Institute of Technology Kanpur (Applied Health Systems and Financing) , Birla Institute of Technology
+and Science Pilani (sanitation financing), Tata Inst of Social Sciences (WASH governance), Indian Inst of Public Health
+(health systems and policy; social determinants of health; environmental health), National Inst of Rural Development and
+Panchayati Raj (decentralised social sector governance); and National Health Systems Resource Centre (district health
+planning; community health systems; community monitoring of health).
+I have authored or co-authored several research papers, editorials, training manuals, course material and so on, on various
+issues of significance, in renowned journals and publications. I have been part of several boards and expert committees
+too, that has key roles in shaping some of the critical policies as well as governance accountability systems.
+In addition to my formal work engagements, I am volunteering for some of the social causes around health, nutrition, and
+WASH, with some of the known people’s movements, including the Public Health Resource Network, India chapter of
+the Global Peoples Health Movement called the Jan Swasthya Abhiyan, All India Peoples Science Network, Delhi Science
+Forum and so on. I also support the humanitarian actions led by the SPHERE India network.
+My public health studies and research training is from the School of Public Health, University of the Western Cape, Cape Town,
+South Africa, and I did my graduate/ undergraduate studies from the University of Calicut, Kerala, India.
+RAMAN VR PAGE 2 OF 10
+Phone: +91 97171 07878 (Cell) +91 11 6138 4231 (Res) Email: weareraman@gmail.com
+2
+EDUCATION:
+Sl. Name of Degree/ Training Year University/ Institution
+1 Master of Public Health 2010
+School of Public Health, University of the Western Cape, South
+Africa.
+2 Master of Arts 1995 University of Calicut, Kerala, India.
+3 Bachelor of Arts 1993 Kerala Varma College, University of Calicut, Kerala, India
+4 Pre-Degree Certificate 1990 SNGS College, University of Calicut, Kerala, India
+5 Secondary School Leaving Certificate 1988 Secondary School Examinations Board, Kerala, India
+WORK EXPERIENCE:
+ONGOING ENGAGEMENT:
+• Expert Consultancies with organisations such as Water for People, Green Peace, Tata Trusts, CINI etc.
+• Executive Director of the Centre for Budget and Governance Accountability (CBGA) a think tank based at
+New Delhi. (Aug 2023 Onwards. Honorary since April 2024)
+• Representing India (Honorary) at the Sanitation Learning Hub, Institute of Development Studies (IDS),
+University of Sussex, UK (Honorary: April 2022 onwards).
+• National Convenor of the Public Health Resource Network (PHRN), India (Honorar: 2018 onwards).
+PAST ENGAGEMENTS:
+• Senior Policy Research Mentor, Rural Evidence and Learning for Water (REAL-Water) consortium India
+chapter (Part-time consultant: April 2022 to May 2023), at the CSEI, ATREE, Bengaluru, India.
+o Guide and support REAL-Water research studies and teams on rural drinking water supply across India, on
+policy, governance as well as accountability aspects.
+• Policy Advisor (Oct 2021 – Feb 22) and Head of Policy (Sept 2016 – Sept 2021) with WaterAid India.
+o Leading critical research and advocacy initiatives for strengthening universal access to WASH in India,
+including strengthening social as well as financial accountability measures for WASH and institutions therein.
+o Guiding all gender, equity, and inclusion initiatives as part of WaterAid India’s WASH interventions.
+o Representing WaterAid India in various committees and forums of the Government and other spaces.
+o Organising knowledge events, programs, and partnerships to strengthen the body of knowledge around
+WASH and allied themes.
+o Supporting WaterAid International’s and Southeast Asia region’s advocacy and WASH Governance work
+Areas of significant knowledge contributions: WASH financing and accountability; Terrain appropriate toilet
+technologies; Accessible and inclusive sanitation; Gender in WASH; Behavior change strategies for toilet use;
+Community managed piped drinking water supply; Water quality and health linkages; Water safety planning; Water
+utilities; Menstrual hygiene and menstrual waste management; Health, safety and dignity of sanitation workers;
+WASH in health care facilities, schools and child care centers; WASH and climate change; WASH and disasters;
+Strengthening local governance for WASH.
+• Principal Fellow (Oct 2011- Sept 2016), Public Health Foundation of India / Indian Inst of Public Health
+o Co-founder and co-lead of the Health Governance Hub, PHFI's interdisciplinary programme of research on
+critical aspects of health systems and policy, linked to capacity building and advocacy.
+o Lead for the Project to support the Ministry of Health & Family Welfare in establishing National Knowledge
+Platform for HPSR.
+o Co-lead for the India Nodal Institute of Alliance for Health Policy and Systems Research, WHO.
+o Lead for the “Grassroots” project to explore the role of community-based organisations in Universal Health
+Coverage; Mentor to the implementation research VOICES to strengthen Village Health and Nutrition
+Committees and other Hub projects
+RAMAN VR PAGE 3 OF 10
+Phone: +91 97171 07878 (Cell) +91 11 6138 4231 (Res) Email: weareraman@gmail.com
+3
+• Technical Advisor to High Level Expert Group (HLEG) on Universal Health Coverage, Planning
+Commission of India- secretariat hosted by the PHFI (April 2011- Oct 2011)
+o Helped recommendations on Citizen’s Participation, Urban Health, and Social Determinants of Health.
+• Adviser, Health Systems Strengthening Partnership, with Jharkhand Health Society, Jharkhand, India (Sep
+2008 to Mar 2011) – consultant placed by the ICICI Centre for Child Health and Nutrition, India.
+o Guided the state in establishment of a resource centre and support unit for Village Health Committees and
+Sahiyya Community Health Volunteer Movement in the state, under a state-civil society partnership.
+• State Health Resource Centre Chhattisgarh (SHRC), India: Co-Founder (2002- I was invited by the State
+Government and ActionAid India (coordinating agency) for setting up the SHRC and the Mitanin CHW Program);
+Chief Coordinator (May 2002 to Sep 2008); Director in-Charge (Sep 2006 to Jan 2008).
+o As Director-in charge: led the unique state-civil society partnership institution designated as additional
+technical capacity to MoHFW, State Government of Chhattisgarh. Convenor of Sector Reforms Cell; Member
+of State Health Mission/State Health Society Steering Group; Member Secretary of NRHM Planning
+Committee; Nodal Officer for Sector Investment Programme and European Union- Chhattisgarh State
+Partnership Program; Convenor, Advisory Group for Health Systems Strengthening.
+o As Chief Coordinator: worked as associate head and administrative lead of the institution- responsible for
+planning and managing all programme as well as policy initiatives.
+o Founding lead for conceptualisation, planning and establishment of the unique state-wide 'Mitanin' community
+health volunteer initiative, with over 65k CHVs in all rural habitations of the state;
+o Founding lead for Swasth Panchayat Yojana, a state-wide initiative to enhance leadership and ownership of
+Panchayati Raj Institutions (local governments) in health planning, action, governance and accountability using
+a hamlet-level health and human development index.
+• BBC World Service Trust, Delhi, India: Community Media Expert (Oct 2001-March 2002) on supporting
+design of human media and other communication campaigns on HIV and AIDS.
+• Project Management Unit, State Govt of Uttar Pradesh, India: Chief Functionary, Community
+Participation and Capacity Building (Apr 1999 to Sep 2001) for the GoI – GoUP - UNDP joint Project "A
+Multi-sectoral Approach to Health", implemented in select districts of Uttar Pradesh and Uttaranchal States.
+o Lead for various community mobilisation and capacity building initiatives under the pilot project for
+strengthening district level public health systems through coordination of health and linked departments,
+Panchayati Raj Institutions and communities.
+o Led the implementation of ‘Swasthya Sathi’, a large-scale community health volunteer programme, institutional
+support for strengthening local body leadership and accountability in health as well as for social mobilisation
+and media initiatives and decentralised district health planning and action.
+o Organised series of social audit processes of government programs on health and allied themes, involving three
+tier Panchayati Raj Institutions, community based institutions and Civil Society Organisations
+• Bharat Gyan Vigyan Samithi, Delhi, India: National Coordinator for Uttar Pradesh (May 1993- Sep 2001);
+and Adviser, National Literacy Mission, Government of India.
+o Lead adviser for Total Literacy Campaigns in several districts of India, mainly in then Uttar Pradesh, Madhya
+Pradesh and Bihar states, for restoring the campaign initiatives under the Operation Restoration initiative.
+o Planned and managed of environment building initiatives for the literacy campaigns, including a spectrum of
+programme initiatives for women empowerment, school education, reading and library movement, community
+health and development of scientific temper.
+o Co-founded and led development of internal systems and processes for the state level independent organisation,
+namely, Gyan Vigyan Samiti Uttar Pradesh and Uttaranchal, as its initial lead coordinator and signatory.
+o Supported the Department of Health, State Government of Uttar Pradesh in setting up large scale community
+initiatives for community led planning and monitoring of health services, across 24 districts.
+o Co-founded the Peoples Health Assembly and Jan Swasthya Abhiyan in the states as its founding General
+Convenor.
+RAMAN VR PAGE 4 OF 10
+Phone: +91 97171 07878 (Cell) +91 11 6138 4231 (Res) Email: weareraman@gmail.com
+4
+• Key Resource Person (Apr 1989 to Mar 1993); Total Literacy Programme, Kerala.
+o Key role in training and coordination of Master Trainers and Volunteer Trainers for the Literacy Programme;
+also, coordination of communication/ social mobilisation initiatives.
+• Managing Faculty (1991-1993); Akshara Education Centre, Chelakkara, Kerala, India.
+o Co-leading the parallel educational initiative to support and develop underprivileged students from remote
+locations, who could not perform well in exams, or had to register privately in universities as result of their
+inability to secure a college admission.
+LEADERSHIP OF PROGRAMS AND LARGE-SCALE CAMPAIGNS:
+• Led ‘Advancing Rights and Freedoms of Women and Engaged in Manual Scavenging’ Project, in Madhya
+Pradesh, Uttar Pradesh, Bihar and Jharkhand (WaterAid, 2016-21) through initiating institutional processes and
+accountability measures involving communities and local governments.
+• Supported scaling up of ‘Jal Chaupal’, a democratic platform for community level water budgeting,
+planning and accountability, involving citizens, community organisations and local governments (2016-22).
+• Initiated a capacity building and action for local level budget awareness and monitoring initiatives in the
+states of Odisha and Bihar, as part of a partnership between WaterAid, CBGA and IRC WASH (2018-20).
+• Co-led setting up of National Knowledge Platform for Health Systems and Policy Research.
+• Mentored ‘VOICES’ Village Health Committee Strengthening Program, Tamil Nadu & Rajasthan (PHFI,
+2011-16)
+• Guided Community Health Fellowship Program by the Public Health Resource Network, covering over 60
+fellows, 5 states and a number of districts.
+• Led Mitanin Community Health Volunteer Program in Chhattisgarh and supporting Sahiyya CHW
+Program in Jharkhand: program design and management of the large scale CHW programs in two states (2002-
+2008 – Chhattisgarh and 2008-2011-Jharkhand). The Chhattisgarh initiative paved way for the conceptualisation of
+ASHA program under the National Rural Health Mission in 2005.
+• Supported EQUIP- Enhancing Quality in Primary Health Care: Program for skill development of doctors in
+maternal and child health care across the state of Chhattisgarh, India (2004-2008)
+• Led Swasth Panchayat Yojana, Chhattisgarh: designing, capacity building and management of the Panchayat
+level health and human development Index for the State, to support local planning (2005-2008)
+• Led technical support to European Union Supported Sector Investment Program and EU-State Program
+Partnership in Chhattisgarh State: supported the state level management of various components, which included
+development of Medium Term Expenditure Framework for Health Sector, Introduction of outcome budgeting
+and gender budgeting as well as strengthening of local government capacities (2002-2008).
+• Led Multi Sectoral Approach to Health: Led community mobilisation and capacity building component of this
+important government project towards strengthening health and health accountability systems in Uttar Pradesh and
+Uttarakhand States (1999-2001)
+• Supported Samata Program: nationwide multi-pronged program for organising and empowering women and their
+leadership (1995-2000).
+• Co-led Jan Vachan Andolan, a nationwide reading campaign to publish and popularise over 800 titles for neo
+literates and children and for setting up rural library initiatives (1997-2001).
+• Leading Gaon ko Janein, Gaon ko Badlein: Initiative for strengthening rural development planning, action and
+accountability systems (1997-2000)
+• Total Literacy Campaign: Key roles in Kerala and Uttar Pradesh. Supported programs in Madhya Pradesh,
+Andhra Pradesh, Himachal Pradesh, Punjab, Bihar, Odisha, Haryana and Rajasthan (1993-2001)
+RAMAN VR PAGE 5 OF 10
+Phone: +91 97171 07878 (Cell) +91 11 6138 4231 (Res) Email: weareraman@gmail.com
+5
+CONTRIBUTIONS IN SHAPING IMPORTANT POLICIES:
+• Contributed as a member of expert committee to guide the formulation of Garima Scheme for Core Sanitation
+Workers by Government of Odisha (2020).
+• Contributed to policy guidance for Rural Faecal Sludge Management guidelines by Swachh Bharat Mission
+2.0, Government of India (2019-20).
+• Contributed to the formulation of Accessible and Inclusive Sanitation Strategy, Government of Chhattisgarh,
+and Government of India (2019).
+• Contributed to the formulation of Sanitation Sustainability Guidelines, Government of India (2018).
+• Prepared Draft Guidelines on Solid and Liquid Waste Management, Government of India (2018)
+• Co-drafted scaling up roadmap for strengthening Village Health & Sanitation Committees in Rajasthan and
+Tamil Nadu (2016)
+• Framed recommendations on Governance, Financing and Community Participation - Report of the Technical
+Resource Group for National Urban Health Mission, MoHFW, India (2013).
+• Contributed to the chapters on Citizen Participation, Urban Health and Social Determinants of Health in the report
+of the High-Level Expert Group for Universal Health Coverage, Planning Commission of India (2011).
+• Contributed to the development of guidelines for community monitoring processes under the National
+Health Mission in Chhattisgarh and Jharkhand (2008)
+• Led drafting of the Guidelines on Community Processes, Jharkhand State Health Mission (2008)
+• Led drafting of the "Chhattisgarh State Nursing Home & Health Care Establishments Act" (2008).
+• Led design of the Post-Graduate Diploma in District Health Planning for the Indira Gandhi National Open
+University, as part of the National Rural Health Mission capacity building initiatives (2008)
+• Contributed as convenor, expert group to plan Community Health Insurance Scheme, Chhattisgarh (2007).
+• Contributed to development of Framework for Fast Track Capacity Building of district level officials of
+National Rural Health Mission, for the Regional Resource Centre for north-eastern states of India (2006)
+• Led planning of the ECTA-GoI Health Sector Investment Programme for the state of Chhattisgarh (2002-04)
+• Led preparation of Annual PIPs and District Action Plans in Chhattisgarh and Jharkhand under the National
+Health Mission (2006-2011)
+• Led the conceptualisation of Medical Assistant Cadre, building on the 3-year medical diploma program, for
+rural primary health centres in Chhattisgarh state (2007).
+• Led the development of ‘Jeevan Deep’ public hospital quality improvement scheme in Chhattisgarh (2006)
+• Contributed to the design of ‘Chhattisgarh Rural Medical Corps’ programme to attract medical personnel to
+remote rural areas (2008).
+• Led drafting of Ayush and Health Sciences University of Chhattisgarh Act, Chhattisgarh state (2008).
+• Led drafting of Strategy for Meeting Unmet Needs of Family Planning, Chhattisgarh State (2007)
+• Contributed to drafting of State Health & Population Policy, Chhattisgarh state (2006).
+• Contributed to drafting of Training Policy for Health Human Resources, Chhattisgarh state (2005).
+• Co-led drafting of Urban RCH Policy, Chhattisgarh State (2004).
+• Convened the drafting process of State Drug Policy, Chhattisgarh state (2004).
+• Contributed to the drafting State Behaviour Change Communication Policy for Health, Chhattisgarh (2004).
+RAMAN VR PAGE 6 OF 10
+Phone: +91 97171 07878 (Cell) +91 11 6138 4231 (Res) Email: weareraman@gmail.com
+6
+HIGHLIGHTS OF RESEARCH WORK:
+• Lead for Developing WASH Financing Strategy for the State of Assam (Water for People; ongoing)
+• Lead for Studying Financing for Heatwave Mitigation and Adaptation in India. (GreenPeace; ongoing)
+• Study Mentor for Review of WASH Financing in Independent India, towards developing and integrating
+WASH Accounts with the Health Accounts. CBGA, 2024 (Ongoing).
+• Study Mentor, Municipal Financing in Hill Regions of India. (ongoing)
+• Study Mentor, Unpacking and operationalising the Concept of Loss and Damage due to climate change
+in India and its states (CBGA, being initiated)
+• Lead, Health Accountability of Governments in Independent India- a review. PHRN, 2023 (ongoing).
+• Lead, Narrative Review of Threats and Challenges to Rural Drinking Water Supply and Governance;
+REAL-WATER Study. ATREE, 2022-23.
+• Investigator, Immersive research for safer sanitation in Bihar and Maharashtra, India; IDS Sussex and Finish
+Society, 2022.
+• Principal Investigator, Study of Community Managed Drinking Water Schemes. WaterAid India, 2019-21.
+• Research Mentor, Study of Climate Change in relation to Ground Water Situation, in different Geographies
+of India. Coordinated by WaterAid India and University of California Santa Barbara (2020-22).
+• Research Mentor, Study of Sustainable Drinking Water Solutions for Water Quality Affected Geographies.
+WaterAid India, 2020-21.
+• Research Mentor, Rights and Freedoms of Women Engaged in Manual Scavenging in 4 states of India.
+WaterAid India, 2020-21.
+• Co-Principal Investigator, Rapid Assessment of Gender Friendliness of Public and Community Toilet
+Infrastructure in Urban Areas. WaterAid India, 2019-20.
+• Research Mentor, Analytical Study of Accessible and inclusive sanitation initiatives in Chhattisgarh. WaterAid
+India, 2020.
+• Research Mentor, Rapid Study of Hand Hygiene Situation in India during COVID-19 Pandemic and Beyond.
+WaterAid India, 2020.
+• Co-Principal Investigator, Rapid Study of the Situation of Health, Safety and Social Security of Sanitation
+Workers in India during COVID-19 Pandemic. WaterAid and Urban Management Centre, 2020.
+• Co-Principal Investigator, Study of Drinking Water Situation and Governance in Small and Medium Towns.
+WaterAid India, 2019.
+• Co-Principal Investigator, Study of terrain appropriateness, Safety and Sustainability of Toilet Technologies,
+WaterAid India, 2019.
+• Principal Investigator, Immersive research on Equity and Inclusion in Sanitation, WaterAid India and IDS
+Sussex, 2019.
+• Co-Principal Investigator, Study of Women’s Role in Swachh Bharat Mission in the State of Jharkhand, 2018.
+• Co-Principal Investigator, Attaining and Sustaining Sanitation benefits- a rapid diagnostic study of Open
+Defecation Free Districts under Swachh Bharat Mission, 2018.
+• Research Mentor, Documenting Best Practices of Equity and Inclusion in Swachh Bharat Mission, 2018.
+• Principal Investigator, Study of the Direct Benefit Transfer of Sanitation Incentives in the State of Madhya
+Pradesh, India (2017-18).
+• Research Mentor, for the Impact Evaluation of Behaviour Change Approaches for Promoting latrine use in
+rural India”. EAWAG and WaterAid India (2016-18), Funded by 3ie.
+• Principal Investigator, "Rapid Assessment of Toilet Technologies under the Swachh Bharat Mission",
+WaterAid India (2016-17).
+• Co-Principal Investigator, "Rapid Assessment of Hand Hygiene Situation under the Swachh Bharat Mission
+in India", WaterAid India (2016-17).
+• Investigator, “Immersive Reality Check of BCC approaches under Swachh Bharat Mission”. IDS Sussex,
+WaterAid and Praxis (2016-17).
+• India Research Mentor, "Studying Civil Society Engagement in Health for All", Global Peoples Health
+Movement (2014-15). Funded by IDRC.
+RAMAN VR PAGE 7 OF 10
+Phone: +91 97171 07878 (Cell) +91 11 6138 4231 (Res) Email: weareraman@gmail.com
+7
+• Member, Team to prepare a manual on “Building Movements for Health”, Global Peoples Health Campaign.
+• Technical Advisor for the Study titled "Role of Local Participatory Governance Institutions in Enhancing
+Access to Health" Funded under Joint Health Systems Research Grant by MRC, UK. (2015-16)
+• Research Mentor, "Strengthening Village Health Committees for Intensified Community Engagement at
+Scale in Two States of India" (VOICES study). Funded under AHPSR implementation research grant by WHO,
+Geneva. (2013-2015)
+• Lead Investigator, Adapting and Implementing Hunger Reduction Commitment Index for India and States.
+Funded by: Oxfam India. (2012-13)
+• Technical Advisor for Study "Postings and Transfers in the Health Sector". Funded by DFID (2013-16)
+• Technical Advisor, Nursing Governance in India. Funded by DFID (2013-16)
+• Lead Investigator, Governance ‘tool kits’ for Universal Health Coverage. Funded by Oxfam India. (2013-14)
+• Member, Study Team, National Evaluation of the Accredited Social Health Activist (ASHA) Programme,
+commissioned by National Health Systems Resource Centre. (2009-10)
+• Lead, Human Resources Planning Study by the National Rural Health Mission in the state of Jharkhand. (2010)
+• Principal Investigator, Need Assessment of Public Health Training for AYUSH Professionals by SHRC
+Chhattisgarh (2010).
+• Technical Adviser, Study to develop basic standards for AYUSH facilities, by the Department of AYUSH,
+Government of Chhattisgarh. (2010-11).
+• Technical Adviser, Rapid Assessment of Sahiyya Community Health Volunteer Programme, by the Child In
+Need Institute, Jharkhand (2009).
+• Investigator for the study titled “Issues Related to Birth Registration in Chhattisgarh”, by SHRC Chhattisgarh
+(2006)
+• Investigator, "Illness patterns and Cost of Health Care in Chhattisgarh”, by SHRC Chhattisgarh (2006).
+• Investigator, “Audit of Prescription Practices in the state of Chhattisgarh”, by PJLNM Medical College Raipur
+and SHRC Chhattisgarh (2004-05).
+• Member, Study team for the “Internal Evaluation of Mitanin Programme”, by SHRC Chhattisgarh (2004).
+• Associate, "Study of Workforce Management Issues in Health Department of Chhattisgarh". (2004).
+• Associate, “Evaluation of Post-Literacy Programmes in India”, by Bharat Gyan Vigyan Samithi (1999).
+PUBLICATIONS:
+INDEXED PUBLICATIONS:
+o Farooqui N; Raman VR; Shiv J; Chaturvedi S; Mazumdar M; Prasad V. Informal collectives and access to
+healthcare during India's COVID-19 second wave crisis. BMJ Global Health 6(7) 6731, July 2022.
+https://gh.bmj.com/content/6/7/e006731
+o Friedrich M, Balasundaram T, Muralidharan A, Raman VR, Mosler H: Increasing latrine use in rural Karnataka,
+India using the risks, attitudes, norms, abilities, and self-regulation approach: A cluster-randomized controlled
+trial. Science of the Total Environment, Volume 707, 10 March 2020, 135366.
+https://doi.org/10.1016/j.scitotenv.2019.135366
+o Raman VR, Muralidharan A (2019): Closing the loop in India's sanitation campaign for public health gains. The
+Lancet, Volume 393, issue 10177 1184-1186. https://www.thelancet.com/journals/lancet/article/PIIS0140-
+6736(19)30547-1/fulltext
+o Ved R, Sheikh K, George AS, Raman VR (2018): Village Health Sanitation and Nutrition Committees:
+reflections on strengthening community health governance at scale in India. BMJ Global Health.
+https://gh.bmj.com/content/bmjgh/3/Suppl_3/e000681.full.pdf
+o Sriram V, Bennet S, Raman VR, Sheikh K (2018): Developing the National Knowledge Platform in India: A
+policy and institutional analysis. Health Research Policy and Systems.
+https://link.springer.com/article/10.1186/s12961-018-0283-3
+o Gupta A, Fledderjohann J, Modugu HR, Raman VR, Stuckler D, Vellakkal S (2018): Barriers and prospects of
+India's conditional cash transfer program to promote institutional delivery care: A qualitative analysis of the
+RAMAN VR PAGE 8 OF 10
+Phone: +91 97171 07878 (Cell) +91 11 6138 4231 (Res) Email: weareraman@gmail.com
+8
+supply-side perspectives. BMC Health Services Research.
+https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-018-2849-8
+o Scott K, George AS, Harvey S, Mondal S, Patel G, Raman VR, Sheikh K (2017): Government helper and citizen
+advocate? A case study of the multiple roles and pressures facing a non-governmental organization contracted by
+government to strengthen community health in northern India. International Journal of Health Planning and
+Management. 2017;1–14. https://doi.org/10.1002/hpm.2473
+o Sheikh K, Kumar S, Ved R, Kumar S, Raman VR, Ghaffar A, Tran N, Reddy KS, Swaminathan S (2016): India's
+new health systems knowledge platform-making research matter. The Lancet, Volume 388 , Issue 10061, 2724-
+2725. http://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(16)32391-1.pdf
+o Kerketta F, Tripathi N, Chatterjee P, Brokar A, Raman VR, et al. (2017) Assessment of Integrated Counselling
+and Testing Centers (ICTC) in Chhattisgarh, India. J HIV AIDS 3(2).
+https://www.sciforschenonline.org/journals/hiv-aids/JHA-3-137.php
+o Raman VR, & Sheikh K. (2016). Generating momentum towards community roles in Universal Health
+Coverage: key outcomes of a series of state-civil society consultative processes. BMJ Global Health, 1(Suppl 1),
+A14-A15. http://dx.doi.org/10.1136/bmjgh-2016-EPHPabstracts.19.
+o Garimella S., Raman VR, Varghese J & Sheikh K. (2016). The Keystone HPSR short course: developing
+capacities for policy-relevant health policy & systems research. BMJ Global Health, 1(Suppl 1), A36-A37.
+http://dx.doi.org/10.1136/bmjgh-2016-EPHPabstracts.49
+o Tripathi N., Kerketta F., Chatterjee P, & Raman VR (2016). Availability and access to essential medicines in public
+health facilities in Chhattisgarh, India. BMJ Global Health, 1(Suppl 1), A33. http://dx.doi.org/10.1136/bmjgh2016-EPHPabstracts.44.
+o Sheikh K., Raman VR., Mayra K., (2012): Nurturing nursing in India: need for governance reform. Bio Med
+Central. http://www.biomedcentral.com/1753-6561/6/S5/O32
+o Raman VR, Sheikh K., et al (2012): Governance ‘tool kits’ for universal health coverage in India: guidelines for
+implementing the Expert Group’s recommendations. Bio Med Central. http://www.biomedcentral.com/1753-
+6561/6/S5/O8
+o Prasad S, Raman VR., et al (2012): Equipping missionaries for the mission: Capacity building and District Health
+Planning in Jharkhand, India. Bio Med Central. http://www.biomedcentral.com/1753-6561/6/S1/O7
+o Kalita A., Zaidi S., Prasad V, and Raman VR. (2009): Empowering Health Personnel for Decentralized Health
+Planning in India: an experience of the Public Health Resource Network. Human Resources for Health.
+http://www.human-resources-health.com/content/7/1/57
+o Sundararaman T., Jain K., Raman VR., and Singh PD. (2005): National Rural Health Mission-Hopes and Fears.
+Concerns about targeted sterilisation, retreat of the state and privatisation. Indian Journal of Public Health. 2005
+Jul-Sep;49(3):156-62.. http://www.ijph.in/temp/IndianJPublicHealth493156-8074084_021434.pdf
+BOOK CHAPTERS:
+o Global Health Watch (2014)- an Alternative World Health Report by Peoples Health Movement and others; 4th
+Edition, Zed Books, London. Contributing author of the Chapter B7 “The Revival of Community Health Workers
+in National Health Systems”, a review of the community health worker programmes:
+http://www.ghwatch.org/sites/www.ghwatch.org/files/B7_0.pdf
+o Mitanin Programme Conceptual Issues, 2003. Raipur, State Health Resource Centre Chhattisgarh. Author of
+the Chapter "Pioneers in Community Health Volunteer Programmes".
+http://www.shsrc.org/pdf/MitaninProgrammeConceptualIssuesandOperationalGuidelin.pdf
+o Health Panorama series. “Health Policy Making in India”. 2002, Mumbai, Centre for Enquiry into Health and
+Allied Themes. Co-author of the chapter "A Critique of National Policy on Indian System of Medicines-2001.
+o “Uttar Pradesh Mein Sab Ke Liye Swasthya: Nayi Sadi Ki Chunoutiyan” (Health For All In Uttar Pradesh:
+Challenges of New Millennium). 2001; Lucknow, Jan Swasthya Abhiyan Uttar Pradesh State Coordination
+Committee. Chief Editor of the Volume.
+RAMAN VR PAGE 9 OF 10
+Phone: +91 97171 07878 (Cell) +91 11 6138 4231 (Res) Email: weareraman@gmail.com
+9
+OTHER HIGHLIGHTS:
+o TED Talk: TEDx IIT Guwahati- Multi-Layered and Inter-Generational Discrimination in Manual Scavenging.
+o Was session chair or speaker during several national and international conferences on health, education, nutrition
+and WASH topics. These include, but not limited to: University of North Carolina Water and Health Conference,
+WEDC International Conference, International Water Association Conference, International Public Policy
+Network Conference, Global Peoples Health Assembly, Global Health Systems Research Symposium, Bellagio
+Meetings by Rockefeller Foundation, COPSAH Global Symposium, CHARCHA series of Conferences by The
+Nudge Foundation, National WASH Conclaves by the NIRDPR, All India Peoples Science Congress and so on.
+o Key contributor to a range of training and programme manuals published under the “Mitanin” community health
+worker programme by State Health Resource Centre Chhattisgarh. Contributions to national level modules for the
+ASHA program- on nutrition counselling, community level action, non-communicable diseases and so on.
+o Editorial Coordination of: Standard Treatment Guidelines for Medical Officers in Chhattisgarh State; Standard
+Treatment Manual for Multipurpose Health Workers in Chhattisgarh State; State Essential Drug List for
+Chhattisgarh; State Drug Formulary for Chhattisgarh.
+o Editorial Advisor and contributor to the 18 volume training sourcebook series and other books by Public Health
+Resource Network, to train district level officials on District Health Planning under National Health Mission; These
+cover topics such as primary health care, public health systems, women’s health, child health and nutrition,
+community participation, communicable diseases, non-communicable diseases, human resources for health, tribal
+health, hospital management, BCC and training for health, urban health, primary mental health care, disaster
+management, engaging private sector, district health systems management and convergence for health sector.
+o Prepared a series of books by Bharat Gyan Vigyan Samithi for training on community health, education and literacy;
+and supported publication of books under the Jan Vachan Andolan, and Bal Vachan Andolan a campaign to promote
+reading adults and children as well as to set up rural libraries in the Hindi heartland of India- the campaign has
+published over 500 titles.
+o Contributed as editorial board member of some Hindi publications such as: Sehat Nama (health bulletin), Akshar
+Bodh (literacy and awareness bulletin) Ummeed (IWD publication), and Aaina (Journal on women studies).
+o A good number of Op-Eds, media articles and interviews on critical topics related to water, sanitation, hygiene,
+health, education and nutrition, in print, web and electronic media- In English, Hindi and Malayalam languages.
+o Mentoring a number of young researchers and social workers to write and publish on a range of topics. Efforts to
+document and publish tacit knowledge in policy is another area of engagement.
+LANGUAGES, SKILLS, AND ATTRIBUTES
+• Can write, read, and speak English, Hindi, and Malayalam languages with excellent level of command. Have
+relatively good level of command in Tamil and Sanskrit languages.
+• Excellent writing, analytical as well as management skills using computers and information technology. Wellversed in digital systems and processes including hardware and software components. Understands the digital
+world and its lingua very well, with deeper involvement in the politics of information, knowledge, and digital
+technologies.
+• Careful user of social media, with proper and ardent attention to the ethical concerns around digital contents and
+processes.
+HONORARY POSITIONS AND BOARD MEMBERSHIPS:
+• Invited as Expert Faculty with institutions and programs such as: IIT Kanpur | BITS, Pilani and Goa| TISS,
+Hyderabad, Tujapur and Mumbai| TERI University, School of Advanced Studies, Delhi|Ambedkar University
+Delhi, School of Social Design | Jindal Global University, School of Public Policy, Sonepat| Indian Institute
+of Public Health, Delhi, Hyderabad and Gandhi Nagar| Indian School of Public Policy, New Delhi|
+LBSNAA, National Literacy Resource Centre, Mussoorie| IGNOU, Delhi| National Health Systems
+Resource Centre, Delhi| National Institute of Health and Family Welfare, Delhi| School of International
+Training, India Centre, New Delhi| LAMP fellowship, Delhi| India Fellow Program, Delhi | Indian Law
+Institute, Delhi| School of Public Health, Panjab University, Chandigarh.
+RAMAN VR PAGE 10 OF 10
+Phone: +91 97171 07878 (Cell) +91 11 6138 4231 (Res) Email: weareraman@gmail.com
+10
+• Co-founder; Member of Board (2004 onwards); State Health Resource Centre Chhattisgarh, India.
+• Co-founder, Member of Board (2008) and National Convenor (2018 onwards) Public Health Resource
+Network, India.
+• Member, Executive Committee, (2019 onwards) All India Peoples Science Network, India.
+• Member of Steering Committee; Member, Health Committee and Co-Chair, WASH Committee (2016-ongoing).
+SPHERE Network, India
+• Member, expert group for Water Safety Planning (2019), World Health Organisation and International Water
+Association.
+• Member, Global Advisory Group on Health, Safety and Dignity of Sanitation Workers (2021 onwards) jointly
+constituted by the ILO, WHO, World Bank, SWN and WaterAid.
+• Member, Steering Committee (2023 onwards), Feminist Policy Collective, India.
+• Member, Steering Group (2023 onwards), Financial Transparency Coalition.
+• Invitee to Finance Minister’s pre-budget consultations (2015 onwards) for health and sanitation sectors earlier and
+for inclusive budgets later. Ministry of Finance, Government of India.
+• Member of the Technical Committee for Gender Budgeting (2023 onwards), MoWCD, Government of India.
+• Member, Steering Committee (2020- 22), India Sanitation Coalition, FICCI, India.
+• Member, Organising Committee, National WASH Conclave (2018, 2021), National Institute of Rural
+Development and Panchayati Raj, Hyderabad.
+• Member, India Steering Group (2019-22), Sustainable Sanitation Alliance Global (SuSanA)
+• Member, Steering Committee (2019), Global Programme and Advocacy Executive, WaterAid International.
+• Member, Jury for WASH sector innovations Awards (2019), Water Supply and Sanitation Collaboration
+Council (2018), International Water Association.
+• Member, Steering Group (2019), COPASAH Global Symposium, New Delhi.
+• Member, Core Advisory Group on Health (2015-2019); National Human Rights Commission, India.
+• Member, Scientific Committees for Global Health Systems Research Symposiums - Beijing (2012), Cape Town
+(2014), Vancouver (2016), Liverpool (2018), Dubai (2020) and Columbia (2022).
+• Member, Governing Body (2014 onwards), Delhi Science Forum.
+• Member, Expert Group (2014-16); Central Bureau of Health Intelligence, MoHFW, India.
+• Co-Convenor, Cluster on Complex Health Systems and Systems Thinking (2014-18), Health Systems Global.
+• Member of Editorial (2012-2018) and Member, Executive Committee (2014-2018); Medico Friends Circle, India.
+• Member, Common Review Mission (2008, 2010, 2013, 2014, 2016); National (Rural) Health Mission, India.
+• Member, Expert Groups on (1) Community Processes and Convergence; (2) Urban Health Financing, Governance
+and Phasing (2013-14); Technical Resource Group for Urban Health Mission, MoHFW, India.
+• Member of Panel (2008-09), Ford Foundation International Fellowships Program, India.
+• Member, Advisory Committee (2012-15); Vigyan Prasar, Ministry of Science Technology, India.
+• Member, Expert Group on Health Human Resources (2013); National Inst of Health and Family Welfare.
+• Member, State ASHA Mentoring Group (2009-14); State Health Mission Jharkhand, India.
+• Member of Advisory Committee, State AYUSH Reforms Cell (2007-14); Directorate of AYUSH, Chhattisgarh.
+• Special Invitee, National ASHA Mentoring Group (2008-2011), MOHFW, India.
+• General Convenor, Uttar Pradesh Chapter (1998-2001) and Member, National Coordination Committee (2000
+onwards); Peoples Health Movement, India (Jan Swasthya Abhiyan).
+• Member, Academic Committee for the PG Diploma in District Health Planning and Management (2008-11),
+Indira Gandhi National Open University, New Delhi.
+• Member, State Steering Group for Community Based Monitoring (2006-11), DoHFW, Chhattisgarh, India.
