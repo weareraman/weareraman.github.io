@@ -118,7 +118,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // ===== TYPING EFFECT FOR HERO SUBTITLE =====
     function typeWriter() {
         const subtitle = document.querySelector('.hero-subtitle');
-        const text = 'Executive Director';
+        const text = 'Executive Director - CBGA';
         const speed = 100;
         let i = 0;
         
@@ -153,13 +153,14 @@ document.addEventListener('DOMContentLoaded', function() {
     window.addEventListener('scroll', parallaxEffect);
     
     // ===== THEME TOGGLE ===== 
-    function createThemeToggle() {
-        console.log('Creating theme toggle button...');
-        const themeToggle = document.createElement('button');
-        themeToggle.innerHTML = '<i class="fas fa-moon"></i>';
-        themeToggle.className = 'theme-toggle';
-        themeToggle.setAttribute('aria-label', 'Toggle dark theme');
-        themeToggle.setAttribute('title', 'Toggle dark/light theme');
+    function initializeThemeToggle() {
+        console.log('Initializing theme toggle button...');
+        const themeToggle = document.querySelector('.theme-toggle');
+        
+        if (!themeToggle) {
+            console.error('Theme toggle button not found!');
+            return;
+        }
         
         themeToggle.addEventListener('click', function() {
             document.body.classList.toggle('dark-theme');
@@ -223,13 +224,12 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
         
-        document.body.appendChild(themeToggle);
-        console.log('Theme toggle button appended to body');
+        console.log('Theme toggle button initialized successfully');
     }
     
     // Initialize theme toggle
     console.log('About to initialize theme toggle...');
-    createThemeToggle();
+    initializeThemeToggle();
     
     // ===== RESUME PDF HANDLING =====
     function handleResumeViewer() {
@@ -297,6 +297,41 @@ document.addEventListener('DOMContentLoaded', function() {
     window.removeEventListener('scroll', parallaxEffect);
     
     window.addEventListener('scroll', debouncedScrollHandler);
+    
+    // ===== PDF VIEWER ENHANCEMENT =====
+    function initializePDFViewer() {
+        const pdfIframe = document.querySelector('.pdf-viewer iframe');
+        if (pdfIframe) {
+            // Handle different browsers and their PDF viewing capabilities
+            pdfIframe.onload = function() {
+                // Try to set zoom to fit width after load
+                try {
+                    const iframeDoc = pdfIframe.contentDocument || pdfIframe.contentWindow.document;
+                    if (iframeDoc) {
+                        // Add some styling to improve PDF display
+                        const style = iframeDoc.createElement('style');
+                        style.textContent = 'body { margin: 0; padding: 0; }';
+                        iframeDoc.head.appendChild(style);
+                    }
+                } catch (e) {
+                    // Cross-origin restrictions prevent access, which is expected
+                    console.log('PDF viewer loaded successfully');
+                }
+            };
+            
+            // Handle responsive resizing
+            window.addEventListener('resize', function() {
+                // Trigger iframe reflow
+                const currentSrc = pdfIframe.src;
+                setTimeout(function() {
+                    pdfIframe.src = currentSrc;
+                }, 100);
+            });
+        }
+    }
+    
+    // Initialize PDF viewer
+    initializePDFViewer();
     
     // ===== ACCESSIBILITY ENHANCEMENTS =====
     
