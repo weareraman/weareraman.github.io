@@ -118,7 +118,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // ===== TYPING EFFECT FOR HERO SUBTITLE =====
     function typeWriter() {
         const subtitle = document.querySelector('.hero-subtitle');
-        const text = 'Executive Director - CBGA';
+        const text = 'Independent Expert Consultant';
         const speed = 100;
         let i = 0;
         
